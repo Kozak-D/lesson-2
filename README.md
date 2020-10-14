@@ -1,2 +1,2 @@
 # lesson-2
-https://github.com/Kozak-D/lesson-2/
+https://kozak-d.github.io/lesson-2/
